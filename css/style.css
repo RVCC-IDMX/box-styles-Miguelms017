@@ -7,10 +7,14 @@
     background-color: red;
     padding: 20px;
     margin: 20px;
-    border: 20px solid purple;
+    border-width: 20px;
+    border: 0 solid purple;
 } 
   
   .box-two {
     background-color: blue;
     border: 0 solid yellow;
+    padding: 20px;
+    margin: 20px;
+    border-width: 20px;
 } 
